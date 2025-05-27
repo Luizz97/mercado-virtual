@@ -1,0 +1,117 @@
+[
+  { "codigo": 2, "nome": "Feijão 1kg", "preco": 7.49, "tipo": "alimento" },
+  { "codigo": 3, "nome": "Macarrão 500g", "preco": 3.99, "tipo": "alimento" },
+  { "codigo": 4, "nome": "Óleo de soja", "preco": 6.89, "tipo": "alimento" },
+  { "codigo": 5, "nome": "Açúcar 1kg", "preco": 4.59, "tipo": "alimento" },
+  {
+    "codigo": 6,
+    "nome": "Farinha de trigo 1kg",
+    "preco": 3.29,
+    "tipo": "alimento"
+  },
+  { "codigo": 7, "nome": "Sal 1kg", "preco": 2.49, "tipo": "alimento" },
+  { "codigo": 8, "nome": "Molho de tomate", "preco": 3.49, "tipo": "alimento" },
+  {
+    "codigo": 9,
+    "nome": "Leite condensado",
+    "preco": 4.99,
+    "tipo": "alimento"
+  },
+  { "codigo": 10, "nome": "Atum enlatado", "preco": 6.79, "tipo": "alimento" },
+  {
+    "codigo": 11,
+    "nome": "Leite integral 1L",
+    "preco": 5.99,
+    "tipo": "alimento"
+  },
+  {
+    "codigo": 12,
+    "nome": "Refrigerante 2L",
+    "preco": 8.99,
+    "tipo": "alimento"
+  },
+  {
+    "codigo": 13,
+    "nome": "Água mineral 500ml",
+    "preco": 2.49,
+    "tipo": "alimento"
+  },
+  {
+    "codigo": 14,
+    "nome": "Suco de laranja 1L",
+    "preco": 6.79,
+    "tipo": "alimento"
+  },
+  {
+    "codigo": 15,
+    "nome": "Biscoito recheado",
+    "preco": 3.99,
+    "tipo": "alimento"
+  },
+  {
+    "codigo": 16,
+    "nome": "Chocolate ao leite",
+    "preco": 4.99,
+    "tipo": "alimento"
+  },
+  {
+    "codigo": 17,
+    "nome": "Barra de cereal",
+    "preco": 2.89,
+    "tipo": "alimento"
+  },
+  { "codigo": 18, "nome": "Pão de forma", "preco": 6.49, "tipo": "alimento" },
+  { "codigo": 19, "nome": "Iogurte 170g", "preco": 2.59, "tipo": "alimento" },
+  {
+    "codigo": 20,
+    "nome": "Achocolatado 200ml",
+    "preco": 1.99,
+    "tipo": "alimento"
+  },
+  { "codigo": 22, "nome": "Pasta de dente", "preco": 3.49, "tipo": "higiene" },
+  { "codigo": 23, "nome": "Shampoo 200ml", "preco": 9.89, "tipo": "higiene" },
+  {
+    "codigo": 24,
+    "nome": "Condicionador 200ml",
+    "preco": 10.49,
+    "tipo": "higiene"
+  },
+  { "codigo": 25, "nome": "Desodorante", "preco": 7.99, "tipo": "higiene" },
+  {
+    "codigo": 26,
+    "nome": "Papel higiênico (4 unid.)",
+    "preco": 7.99,
+    "tipo": "higiene"
+  },
+  {
+    "codigo": 28,
+    "nome": "Desinfetante 500ml",
+    "preco": 5.59,
+    "tipo": "limpeza"
+  },
+  {
+    "codigo": 29,
+    "nome": "Esponja de cozinha",
+    "preco": 1.49,
+    "tipo": "limpeza"
+  },
+  { "codigo": 30, "nome": "Sabão em pó 1kg", "preco": 8.79, "tipo": "limpeza" },
+  {
+    "codigo": 31,
+    "nome": "Arroz integral 1kg",
+    "preco": 8.99,
+    "tipo": "alimento"
+  },
+  {
+    "codigo": 32,
+    "nome": "Sabonete líquido",
+    "preco": 4.99,
+    "tipo": "higiene"
+  },
+  {
+    "codigo": 33,
+    "nome": "Limpador multiuso",
+    "preco": 6.99,
+    "tipo": "limpeza"
+  }
+]

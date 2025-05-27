@@ -1,0 +1,152 @@
+[
+    {
+        "codigo": 1,
+        "nome": "Arroz 5kg",
+        "preco": 25.99
+    },
+    {
+        "codigo": 2,
+        "nome": "Feij\u00e3o 1kg",
+        "preco": 7.49
+    },
+    {
+        "codigo": 3,
+        "nome": "Macarr\u00e3o 500g",
+        "preco": 3.99
+    },
+    {
+        "codigo": 4,
+        "nome": "\u00d3leo de soja",
+        "preco": 6.89
+    },
+    {
+        "codigo": 5,
+        "nome": "A\u00e7\u00facar 1kg",
+        "preco": 4.59
+    },
+    {
+        "codigo": 6,
+        "nome": "Farinha de trigo 1kg",
+        "preco": 3.29
+    },
+    {
+        "codigo": 7,
+        "nome": "Sal 1kg",
+        "preco": 2.49
+    },
+    {
+        "codigo": 8,
+        "nome": "Molho de tomate",
+        "preco": 3.49
+    },
+    {
+        "codigo": 9,
+        "nome": "Leite condensado",
+        "preco": 4.99
+    },
+    {
+        "codigo": 10,
+        "nome": "Atum enlatado",
+        "preco": 6.79
+    },
+    {
+        "codigo": 11,
+        "nome": "Leite integral 1L",
+        "preco": 5.99
+    },
+    {
+        "codigo": 12,
+        "nome": "Refrigerante 2L",
+        "preco": 8.99
+    },
+    {
+        "codigo": 13,
+        "nome": "\u00c1gua mineral 500ml",
+        "preco": 2.49
+    },
+    {
+        "codigo": 14,
+        "nome": "Suco de laranja 1L",
+        "preco": 6.79
+    },
+    {
+        "codigo": 15,
+        "nome": "Biscoito recheado",
+        "preco": 3.99
+    },
+    {
+        "codigo": 16,
+        "nome": "Chocolate ao leite",
+        "preco": 4.99
+    },
+    {
+        "codigo": 17,
+        "nome": "Barra de cereal",
+        "preco": 2.89
+    },
+    {
+        "codigo": 18,
+        "nome": "P\u00e3o de forma",
+        "preco": 6.49
+    },
+    {
+        "codigo": 19,
+        "nome": "Iogurte 170g",
+        "preco": 2.59
+    },
+    {
+        "codigo": 20,
+        "nome": "Achocolatado 200ml",
+        "preco": 1.99
+    },
+    {
+        "codigo": 21,
+        "nome": "Sabonete",
+        "preco": 1.99
+    },
+    {
+        "codigo": 22,
+        "nome": "Pasta de dente",
+        "preco": 3.49
+    },
+    {
+        "codigo": 23,
+        "nome": "Shampoo 200ml",
+        "preco": 9.89
+    },
+    {
+        "codigo": 24,
+        "nome": "Condicionador 200ml",
+        "preco": 10.49
+    },
+    {
+        "codigo": 25,
+        "nome": "Desodorante",
+        "preco": 7.99
+    },
+    {
+        "codigo": 26,
+        "nome": "Papel higi\u00eanico (4 unid.)",
+        "preco": 7.99
+    },
+    {
+        "codigo": 27,
+        "nome": "Detergente l\u00edquido",
+        "preco": 2.89
+    },
+    {
+        "codigo": 28,
+        "nome": "Desinfetante 500ml",
+        "preco": 5.59
+    },
+    {
+        "codigo": 29,
+        "nome": "Esponja de cozinha",
+        "preco": 1.49
+    },
+    {
+        "codigo": 30,
+        "nome": "Sab\u00e3o em p\u00f3 1kg",
+        "preco": 8.79
+    }
+]
