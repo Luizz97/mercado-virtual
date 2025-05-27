@@ -72,22 +72,6 @@ database/
 
 ---
 
-## 🚀 Como Subir para o GitHub
-
-Se quiser subir este projeto do zero para o GitHub, siga este passo a passo:
-
-```bash
-cd C:\Users\bruno\Downloads\projeto_livre_definitivo
-git init
-git add .
-git commit -m "Primeiro commit"
-git remote add origin https://github.com/luizz97/mercado-virtual.git
-git branch -M main
-git push -u origin main
-```
-
----
-
 ## 📄 Licença
 
 Este projeto está licenciado sob os termos da **MIT License**.
